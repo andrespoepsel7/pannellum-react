@@ -23,7 +23,7 @@
     "video.js": "7.18.1"
   },
   "peerDependencies": {
-    "react": "^16 || ^17 || ^18"
+    "react": "^16.0.0 || ^17.0.0 || ^18.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
